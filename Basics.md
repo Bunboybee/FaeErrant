@@ -1,5 +1,5 @@
 ---
-title: What is an Elf Game
+title: Basics
 theme: just-the-docs
 parent: Introduction
 nav-order: 1 
