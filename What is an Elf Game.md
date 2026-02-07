@@ -1,5 +1,6 @@
 ---
 title: What is an Elf Game
+layout: default
 parent: Introduction
 nav-order: 1 
 ---
