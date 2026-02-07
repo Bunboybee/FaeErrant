@@ -3,5 +3,7 @@ description: The official SRD for Fae Errant beta test
 theme: just-the-docs
 
 logo: "/.assets/logo.png"
+favicon: "/.assets/favicon.ico"
+search_enabled: true
 
 url: https://Bunboybee.github.io/FaeErrant
