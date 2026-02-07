@@ -1,5 +1,7 @@
 ---
 title: Introduction
+theme: just-the-docs
+layout: default
 nav-order: 1
 ---
 # Introduction
