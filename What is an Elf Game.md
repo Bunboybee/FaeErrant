@@ -2,7 +2,7 @@
 title: What is an Elf Game
 layout: default
 parent: Introduction
-nav-order: 1 
+nav-order: 0 
 ---
 
 # What is an Elf Game
