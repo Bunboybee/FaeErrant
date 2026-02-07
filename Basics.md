@@ -1,8 +1,9 @@
 ---
 title: Basics
 theme: just-the-docs
+layout: default
 parent: Introduction
-nav-order: 1 
+nav-order: 2
 ---
 ## Basic Procedure
 1. The Referee Describes the situation the players find themselves in 
