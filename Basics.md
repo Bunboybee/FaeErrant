@@ -2,7 +2,7 @@
 title: Basics
 layout: default
 parent: Introduction
-nav-order: 3
+nav-order: 2
 ---
 
 ## Basic Procedure
